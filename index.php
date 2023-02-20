@@ -1,0 +1,388 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Yongfeng Zhang</title>
+	<link rel="stylesheet" type="text/css" media="all" href="zbench/style.css" />
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<script type='text/javascript' src='js/jquery.js'></script>
+<!-- link rel='canonical' href='http://localhost/yongfeng/' /-->
+<link rel='canonical' href='http://yongfeng.me/' />
+</head>
+
+<body class="home page page-id-15 page-parent page-template-default">
+<div id="nav">
+	<div id="menus">
+        <ul>
+            <li class="page_item page-item-15 current_page_item"><a href="http://yongfeng.me/">Home</a></li>
+            <!-- li class="page_item page-item-26"><a href="http://yongfeng.me/biography/">Biography</a></li-->
+            <!--li class="page_item page-item-40"><a href="http://yongfeng.me/cv/">CV</a></li-->
+            <li class="page_item page-item-40"><a href="http://yongfeng.me/publications/">Publications</a></li>
+            <li class="page_item page-item-40"><a href="http://yongfeng.me/projects/">Projects</a></li>
+            <!--li class="page_item page-item-33"><a href="http://yongfeng.me/students/">Students</a></li-->
+            <li class="page_item page-item-33"><a href="http://yongfeng.me/teaching/">Teaching</a></li>
+            <li class="page_item page-item-33"><a href="http://yongfeng.me/code/">Code</a></li>
+            <li class="page_item page-item-33"><a href="http://yongfeng.me/dataset/">Dataset</a></li>
+            <!--li class="page_item page-item-1089"><a href="http://yongfeng.me/contact/">Contact</a></li-->
+        </ul>
+    </div>
+	<div id="search">
+		<!-- form id="searchform" method="get" action="http://localhost/yongfeng/">
+            <input type="text" value="Search: type, hit enter" onfocus="if (this.value == 'Search: type, hit enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search: type, hit enter';}" size="35" maxlength="50" name="s" id="s" />
+            <input type="submit" id="searchsubmit" value="SEARCH" />
+        </form-->
+        <form id="searchform" method="get" action="http://yongfeng.me/">
+            <input type="text" value="Search: type, hit enter" onfocus="if (this.value == 'Search: type, hit enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search: type, hit enter';}" size="35" maxlength="50" name="s" id="s" />
+            <input type="submit" id="searchsubmit" value="SEARCH" />
+        </form>
+    </div>
+</div>
+<div id="wrapper">
+	<div id="header">
+	   <h1><a href="http://yongfeng.me/">Yongfeng Zhang</a></h1>
+	   <div class="clear"></div>
+	</div>
+	<div id="content">
+		<div class="post-15 page type-page status-publish hentry post post-page post-page-nocomment" id="post-15"><!-- post div -->
+		<h2 class="title">Home</h2>
+        <div class="post-info-top post-info-top-nocomment"></div>
+		<div class="clear"></div>
+		<div class="entry">
+		<!--div id="attachment_1000" class="wp-caption alignright" style="width: 200px, height: 200px"><a href="image/zhangyongfeng.jpg"><img class="wp-image-1000" title="Yongfeng Zhang" alt="" src="image/zhangyongfeng.jpg" width="200" height="200" /></a><p class="wp-caption-text"></p></div-->
+        <!--div id="attachment_1000" class="wp-caption alignright" style="width: 200px, height: 200px"><img class="wp-image-1000" title="Yongfeng Zhang" alt="" src="image/zhangyongfeng.jpg" width="200" height="200" /><p class="wp-caption-text"></p></div-->
+        <div id="attachment_1000" class="wp-caption alignright" style="width: 150px, height: 150px"><img class="wp-image-1000" title="Yongfeng Zhang" alt="" src="image/YongfengZhang_0.jpeg" width="150" height="150" /><p class="wp-caption-text"></p></div>
+<br></br>
+
+<p><strong>Position:</strong> Assistant Professor, <a href="https://cs.rutgers.edu" target="_blank">Department of Computer Science</a>, <a href="https://www.rutgers.edu" target="_blank">Rutgers University</a> &#8211; New Brunswick<br/></p>
+
+<p><strong>Research Interests:</strong> Machine Learning and Data Mining, Information Retrieval and Recommender Systems, Explainable AI, Fairness in AI, Personalized AI, AI and Economics, AI for Science, AI for Social Good</p>
+<!--AI and Health-->
+<!--ul>
+<li>Machine Learning and Data Mining</li>
+<li>Personalized Recommender Systems</li>
+<li>Economic Data Science, Computational/Internet Economics</li>
+<li>Conversational Search and Recommendation Systems</li>
+<li>Textual Sentiment Analysis</li>
+<li>AI Ethics</li>
+</ul-->
+
+<!--p><strong>Lab:</strong> The Web Intelligent Systems and Economics (WISE) Lab at Rutgers, <a href="http://wise.cs.rutgers.edu">http://wise.cs.rutgers.edu</a></p-->
+
+<!--p>Within the above areas, our recent research focuses on the intersection of Machine Learning and Data Mining, Recommendation and Search Systems, Knowledge Graphs, Computational Economics, and Conversational AI, including 1) Explainable Machine Learning and its applications &#8211; developing explainable machine learning theories and algorithms for decision support systems such as personalized recommendation and search; 2) Conversational Search, Recommendation, and QA algorithms based on neural modeling and natural language processing; 3) Internet Economics &#8211; the application and analysis of economic theories in web-based applications such as recommendation, search, and sharing economy; and 4) AI Ethics, including Explainable AI and Fairness in AI as well as their applications. Our group is also broadly interested in "Personalized X", including Personalized Recommendation, Search, Education, Chatbots, etc.</p-->
+
+<!--p>Openings for PhD, visitor, or internship to work on Machine Learning and its application to Recommender Systems, Information Retrieval, Conversational Systems, Knowledge Representation, or Economic Data Science. Please feel free to contact me with your CV if you are interested in working on these topics.</p-->
+
+<p><strong>Contact:</strong> Department of Computer Science, 110 Frelinghuysen Road, Rutgers University, Piscataway, NJ 08854, USA<br/>
+<img src="http://yongfeng.me/image/emailrutgers.png" class="ql-img-inline-formula " title="" height="10" width="200" style="vertical-align: -4px;"/>
+</p>
+
+
+<!--p><strong>Looking for highly motivated PhD students for research on Machine Reasoning, Causal Machine Learning, Explainable AI, Fairness in AI. Please feel free to contact if you are interested in a PhD career at Rutgers CS!</strong><br/>
+</p-->
+
+<p><strong>Education and Experience:</strong></p>
+
+<ul>
+<li><span style="line-height: 13px;">2018 &#8211; now, &nbsp;Assistant Professor, <a href="https://cs.rutgers.edu" target="_blank">Department of Computer Science</a>, <a href="https://www.rutgers.edu" target="_blank">Rutgers, The State University of New Jersey</a><br/></span></li>
+<!--?php
+    $city = ip_info("Visitor", "City");
+        if ($city == "Dracut" || $city == "Andover" || $city == "Lowell" || $city == "Lawrence" || $city == "Tyngsborough" || $city == "Chelmsford" || $city == "Billerica" || $city == "Tewksbury" || $city == "Ballardvale") {
+            echo '<li><span style="line-height: 13px;">2017 &#8211; 2018, Assistant Professor, <a href="https://www.uml.edu/Sciences/computer-science/" target="_blank">Department of Computer Science</a>, <a href="https://www.uml.edu" target="_blank">University of Massachusetts Lowell</a><br/></span></li>';
+        }
+?-->
+<!--li><span style="line-height: 13px;">2016 &#8211; 2017, Postdoc Research Associate, <a href="http://ciir.cs.umass.edu/" target="_blank">Center for Intelligent Information Retrieval</a>, <a href="http://www.umass.edu/" target="_blank">University of Massachusetts Amherst</a><br/></span></li-->
+<li><span style="line-height: 13px;">2016 &#8211; 2017, Postdoc at <a href="http://ciir.cs.umass.edu/" target="_blank">CICS</a>, <a href="http://www.umass.edu/" target="_blank">UMass Amherst</a> (Supervisor Prof. W. Bruce Croft); Faculty member at <a href="https://www.uml.edu/Sciences/computer-science/" target="_blank">CS Dept</a>, <a href="https://www.uml.edu" target="_blank">UMass Lowell</a><br/></span></li>
+<li><span style="line-height: 13px;">2015 &#8211; 2016, Assistant Specialist (Supervisors Prof. Yi Zhang and Daniel Friedman), <a href="http://www.soe.ucsc.edu/" target="_blank">School of Enginnering</a>, <a href="http://www.ucsc.edu/" target="_blank">University of California Santa Cruz</a><br/></span></li>
+<li><span style="line-height: 13px;">2014 &#8211; 2015, Research Assistant (Supervisors Prof. Tat-Seng Chua and Min-Yen Kan), <a href="http://www.comp.nus.edu.sg/" target="_blank">School of Computing</a>, <a href="http://nus.edu.sg/" target="_blank">National University of Singapore</a><br/></span></li>
+<li><span style="line-height: 13px;">2011 &#8211; 2016, Ph.D. in CS (Supervisors Prof. Shaoping Ma, Min Zhang, Yiqun Liu), <a href="http://www.tsinghua.edu.cn/publish/csen/" target="_blank">Department of Computer Science</a>, <a href="http://www.tsinghua.edu.cn/publish/newthuen/index.html" target="_blank">Tsinghua University</a><br/></span></li>
+<li><span style="line-height: 13px;">2014 &#8211; 2016, B.S. in Economics, <a href="http://en.nsd.edu.cn" target="_blank">National School of Development</a>, <a href="http://english.pku.edu.cn" target="_blank">Peking University</a><br/></span></li>
+<li><span style="line-height: 13px;">2007 &#8211; 2011, B.E. in Computer Science, <a href="http://www.tsinghua.edu.cn/publish/csen/" target="_blank">Department of Computer Science and Technology</a>, <a href="http://www.tsinghua.edu.cn/publish/newthuen/index.html" target="_blank">Tsinghua University</a><br/></span></li>
+</ul>
+
+<p><strong>Honors and Awards:</strong></p>
+<ul>
+<li style="text-align: justify;">2021 NSF CAREER Award</li>
+<li style="text-align: justify;">2021 Facebook Faculty Research Award</li>
+<li style="text-align: justify;">2020 Distinguished Editor for ACM Transactions on Information Systems (TOIS)</li>
+<li style="text-align: justify;">2019 RecSys Best Paper Honorable Mention</li>
+<li style="text-align: justify;">2018 Rutgers CS Best Professor Award for Teaching and Mentoring</li>
+<li style="text-align: justify;">2017 AIRS Best Paper Award</li>
+<li style="text-align: justify;">2017 THU and CAAI Best PhD Dissertation Award</li>
+<li style="text-align: justify;">2015 Microsoft PhD Fellowship</li>
+<li style="text-align: justify;">2015 Siebel Scholar</li>
+<li style="text-align: justify;">2014 Baidu Scholarship</li>
+<li style="text-align: justify;">2014 IBM PhD Fellowship</li>
+<li style="text-align: justify;">2012 Google Scholarship</li-->
+</ul>
+
+
+<p><strong>Recent Talks:</strong></p>
+<ul>
+<li style="text-align: justify;"><strong>Towards Trustworthy Recommender Systems: From Shallow Model to Deep Model to Large Model</strong>, Microsoft Research Summit 2022, CNCC 2022 [<a href="http://yongfeng.me/attach/Trustworthy-Recommendation-full.pdf" target="_blank">Slides</a>]</li>
+<li style="text-align: justify;"><strong>Explainable AI for Science</strong> at Rutgers CQB Seminar. [<a href="http://www.physics.rutgers.edu/~morozov/CQB/f2022/YongfengZhang_abstract.txt" target="_blank">Abstract</a>][<a href="http://yongfeng.me/attach/XAI-Science.pdf" target="_blank">Slides</a>]</li>
+<li style="text-align: justify;"><strong>From Kepler to Newton: Explainable AI for Science Discovery</strong> at ICML 2022. [<a href="https://slideslive.com/38986142" target="_blank">Video and Slides</a>]</li>
+<li style="text-align: justify;"><strong>Human-centered Explainable AI</strong> at UMass Amherst, USC, Brandeis U., U. of Delaware, Megagon Labs, Salesforce, Instacart, RUC, U. of North Texas, IEEE BigData Special Section on XAI (Keynote). [<a href="https://github.com/evison/Human-XAI" target="_blank">Slides</a>][<a href="https://www.youtube.com/watch?v=vXnkpTgwBYM" target="_blank">Video in English</a>][<a href="http://yongfeng.me/attach/Human-XAI.mp4" target="_blank">Video in Chinese</a>]</li>
+<li style="text-align: justify;"><strong>Explainable AI: From Human to Nature</strong> at Rutgers University. [<a href="https://github.com/evison/XAI-Human-Nature" target="_blank">Slides</a>]</li>
+<li style="text-align: justify;"><strong>Towards Explainable Artificial Intelligence</strong> at Infinia ML Tech Talk. [<a href="https://github.com/evison/XAI" target="_blank">Slides</a>]</li>
+<!--li style="text-align: justify;"><strong>From Machine Learning to Machine Reasoning: System 1 + System 2 = Better World</strong> at U Delaware.</li-->
+<li style="text-align: justify;"><strong>Tutorial on Fairness of Machine Learning in Recommender Systems</strong> at SIGIR 2021, CIKM 2021. [<a href="http://yongfeng.me/attach/Tutorial_on_Fairness_in_Recommendation_Slides.pdf" target="_blank">Slides</a>][<a href="https://fairness-tutorial.github.io/" target="_blank">Website</a>]</li>
+<li style="text-align: justify;"><strong>Tutorial on Conversational Recommendation Systems</strong> at RecSys 2020, WSDM 2021, IUI 2021. [<a href="http://yongfeng.me/attach/Tutorial_on_Conversational_Recommendation_Systems.pdf" target="_blank">Slides</a>][<a href="https://www.youtube.com/watch?v=RdGnJSRA0aw" target="_blank">Video</a>][<a href="https://conversational-recsys.github.io/" target="_blank">Website</a>]</li>
+<li style="text-align: justify;"><strong>Tutorial on Explainable Recommendation and Search</strong> at WWW 2019, SIGIR 2019, ICTIR 2019. [<a href="http://yongfeng.me/attach/ears-tutorial.pdf" target="_blank">Slides</a>][<a href="https://sites.google.com/view/ears-tutorial/" target="_blank">Website</a>]</li>
+<li style="text-align: justify;"><strong>Recommender Systems: an Interdisciplinary Perspective</strong> at Rutgers University. [<a href="http://yongfeng.me/attach/RecSys-interdisciplinary.pdf" target="_blank">Slides</a>]</li>
+</ul>
+
+
+<p><strong>Academic Services:</strong></p>
+<ul>
+<li style="text-align: justify;">PC Member: SIGIR 2017-2022; WWW 2017-2022; RecSys 2018-2021; CIKM 2014-2015,2017,2021-2022; AAAI 2019-2022; IJCAI 2017-2019; WSDM 2017-2018; ICTIR 2020-2021; ACL 2018-2019; NAACL 2016,2018; EMNLP 2018-2019; WEB 2017; CCIR 2017</li>
+<!--CIKM 2014, CIKM 2015, NAACL-HLT 2016, INTELLI 2016, WEB 2017, WSDM 2017, WWW 2017, SIGIR 2017, IJCAI 2017, CIKM 2017, CCIR 2017, WSDM 2018, WWW 2018, NAACL-HLT 2018, ACL 2018, SIGIR 2018, IJCAI 2018, EMNLP 2018, RecSys 2018, WWW 2019, AAAI 2019, IJCAI 2019, ACL 2019, RecSys 2019-->
+<li style="text-align: justify;">Senior PC Member: WWW 2020, KDD 2021-2022, RecSys 2021-2022, AAAI 2022, SIGIR 2023</li>
+<li style="text-align: justify;">Area Chair: COLING 2022, LOG 2022</li>
+<li style="text-align: justify;">Associate Editor: ACM Transactions on Information Systems (TOIS); ACM Transactions on Recommender Systems (TORS); Frontiers in Big Data</li>
+<li style="text-align: justify;">Guest Editor: Multimedia Systems SI on Multi-model Data Analysis; ACM TOIS SI on Conversational Search and Recommendation</li>
+<li style="text-align: justify;">Mentor: WSDM 2021 Doctoral Consortium, SIGIR 2021 Doctoral Consortium</li>
+<li style="text-align: justify;">Co-Chair: <br/>
+    The 1st International Workshop on Causality in Search and Recommendation (CSR 2021, co-located with SIGIR 2021)<br/>
+    The 1st International Workshop on Machine Reasoning (MRC 2021, co-located with WSDM 2021)<br/>
+    The 1st, 2nd and 3rd International Workshop on ExplainAble Recommendation and Search (EARS 2018, 2019, 2020, co-located with SIGIR 2018, 2019, 2020)<br/>
+    2019 International Workshop on Recommendation in Multistakeholder Environments (RMSE 2019, co-located with RecSys 2019)<br/>
+    The 2nd Workshop on Multi-dimensional Information Fusion for User Modeling and Personalization (IFUP 2018, co-located with WSDM 2018)<br/>
+</li>
+<li style="text-align: justify;">
+Reviewer: ACM Transactions on Information Systems (TOIS), ACM Transactions on Knowledge Discovery from Data (TKDD) <br/>
+ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Transactions on Multimedia (MM) <br/>
+Information Systems, IEEE Transactions on Knowledge and Data Engineering (TKDE), World Wide Web Journal (WWWJ) <br/>
+Frontiers of Computer Science (FCS), Information Retrieval Journal (IRJ), Information Processing Letters (IPL) <br/>
+IJCAI 2013, AAAI 2013, WSDM 2014, AAAI 2014, WWW 2015, SIGIR 2015, IJCAI 2015, KDD 2015, SIGIR 2016, KDD 2016
+</li>
+</ul>
+
+
+
+<p><strong>Recent News:</strong></p>
+<ul>
+<li style="text-align: justify;">2022-11-23 Congratulations to Shijie Geng for his successful PhD defense <strong>"Personalized Foundation Models for Decision Making"!</strong></li>
+<li style="text-align: justify;">2022-10-18 Paper on <strong>Counterfactual Logical Reasoning</strong> accepted by WSDM 2023.</li>
+<li style="text-align: justify;">2022-10-06 Papers on <strong>Neural-Symbolic Reasoning</strong> and <strong>Commonsense Explanation Generation</strong> accepted by EMNLP 2022.</li>
+<li style="text-align: justify;">2022-09-15 Congratulations to Shuchang Liu for his successful PhD defense <strong>"Multi-Dimensional Federated Learning in Recommender Systems"</strong> co-advised with Prof. Amélie Marian!</li>
+<li style="text-align: justify;">2022-09-01 Grateful to recieve NSF-NIH Smart Health grant as co-PI to work on <strong>Explainable AI for Healthcare</strong> together with Dr. Lanjing Zhang.</li>
+<li style="text-align: justify;">2022-08-05 Papers on <strong>Auto Machine Learning</strong> and <strong>Causal Machine Learning</strong> accepted by CIKM 2022.</li>
+<li style="text-align: justify;">2022-06-28 Papers on <strong>Universal Recommendation Engine (P5)</strong> and <strong>Federated Fairness</strong> accepted by RecSys 2022.</li>
+<li style="text-align: justify;">2022-05-11 Give a talk Towards Trustworthy and Responsible Recommender Systems: Explainability, Fairness and Beyond at Microsoft Research.</li>
+<li style="text-align: justify;">2022-05-01 Papers on <strong>Automatic Loss Function Generation</strong> and <strong>Explainable Fairness</strong> accepted to SIGIR 2022.</li>
+<li style="text-align: justify;">2022-03-25 Congratulations to Hanxiong Chen for his successful PhD defense <strong>"Neural Logic Reasoning and Applications"!</strong></li>
+<li style="text-align: justify;">2022-03-15 Paper on <strong>Causal Factorization Machine</strong> accepted to JCDL 2022.</li>
+<li style="text-align: justify;">2022-03-09 Give an invited talk Human-centered Explainable AI at Renmin University of China. [<a href="https://github.com/evison/Human-XAI/blob/main/Human-Centered-XAI.pdf" target="_blank">Slides</a>]</li>
+<li style="text-align: justify;">2022-02-28 Paper on <strong>Personalized Explanation Generation</strong> accepted to ACL 2022.</li>
+<li style="text-align: justify;">2022-02-25 Give an invited talk Human-centered Explainable AI at Megagon Labs. [<a href="https://github.com/evison/Human-XAI/blob/main/Human-Centered-XAI.pdf" target="_blank">Slides</a>]</li>
+<li style="text-align: justify;">2022-02-18 Give an invited talk <strong>Human-centered Explainable AI</strong> at University of Southern California. [<a href="https://github.com/evison/Human-XAI/blob/main/Human-Centered-XAI.pdf" target="_blank">Slides</a>][<a href="https://www.youtube.com/watch?v=vXnkpTgwBYM" target="_blank">Video</a>]</li>
+<li style="text-align: justify;">2022-01-20 Two papers on <strong>Graph Language Models</strong> and <strong>Explainable Graph Neural Networks</strong> accepted to <strong>WWW 2022</strong>.</li>
+<li style="text-align: justify;">2021-11-30 What is the role of Explainable AI in Science Discovery? Can Kepler's and Newton's groundbreaking works be rediscovered by AI based on Tycho Brahe's ancient observation data? Check out paper <strong>From Kepler to Newton: Explainable AI for Science Discovery</strong>.</li>
+<li style="text-align: justify;">2021-11-05 Give an invited talk <strong>Human-centered Explainable AI</strong> at Brandeis University. [<a href="https://github.com/evison/Human-XAI/blob/main/Human-Centered-XAI.pdf" target="_blank">Slides</a>]</li>
+<li style="text-align: justify;">2021-10-16 Papers on Graph Collaborative Reasoning and Fairness-Utility Trade-off accepted to <strong>WSDM 2022</strong>.</li>
+<li style="text-align: justify;">2021-09-17 Congratulations to Zuohui Fu for his successful PhD defense "<strong>Towards Human-centered Recommender System"!</strong></li>
+<li style="text-align: justify;">2021-09-15 How can AI machines have Free Will, why does it help, and how to achieve it in a responsible way? Check out paper <strong>Problem Learning: Towards the Free Will of Machines</strong>.</li>
+<li style="text-align: justify;">2021-09-12 <strong>Grateful to receive Facebook Faculty Research Award as PI "Towards a Sustainable Social Platform based on Explainable and Fairness-aware Recommendation" to support our research.</strong></li>
+<li style="text-align: justify;">2021-08-26 <strong>Grateful to receive NSF grant IIS-2127918 as co-PI "RI: Small: Enabling Interpretable AI via Bayesian Deep Learning" to support our research. Details can be found on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2127918" target="_blank">NSF award abstract</a></strong>.</li>
+<li style="text-align: justify;">2021-08-16 Papers on Counterfactual Explainable Recommendation, Unbiased Conversational Recommendation, and Causal Recommendation accepted to <strong>CIKM 2021</strong>.</li>
+<li style="text-align: justify;">2021-07-28 <strong>Grateful to receive NSF grant IIS-2046457 as PI "CAREER: Towards Conversational Recommendation Systems: Explainability, Fairness, and Human-in-the-Loop Learning" to support our research on Conversational AI and Human-in-the-Loop AI. Details can be found on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2046457" target="_blank">NSF award abstract</a> and our <a href="https://wise.cs.rutgers.edu/grants/career-conversational-recommendation/" target="_blank">Project Homepage</a></strong>.</li>
+<li style="text-align: justify;">2021-07-10 <strong>Grateful to receive NSF grant CCF-2124155 as co-PI "FMitF: Track I: Synthesis and Verification for Programmatic Reinforcement Learning" to support our research on Neural-Symbolic AI and Explainable AI. Details can be found on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2124155" target="_blank">NSF award abstract</a> and our <a href="https://wise.cs.rutgers.edu/grants/fmitf-formal-RL/" target="_blank">Project Homepage</a></strong>.</li>
+<li style="text-align: justify;">2021-07-08 Paper on Explainable Recommendation in collaboration with Amazon accepted to <strong>RecSys 2021</strong>.</li>
+<li style="text-align: justify;">2021-05-06 Paper on Personalized Transformer accepted to <strong>ACL 2021</strong>.</li>
+<li style="text-align: justify;">2021-04-15 Papers on Fairness, Federated Learning, Counterfactual Recommendation, Conversational Recommendation, and Explainable Recommendation accepted to <strong>SIGIR 2021</strong>.</li>
+<li style="text-align: justify;">2021-04-10 Congratulations to Yikun Xian for his successful PhD defense "<strong>Neural Graph Reasoning for Explainable Decision-Making"!</strong></li>
+<li style="text-align: justify;">2021-03-26 Give an invited talk <strong>Human-centered Explainable AI</strong> at the CIIR Talk Series. [<a href="https://github.com/evison/Human-XAI/blob/main/Human-Centered-XAI.pdf" target="_blank">Slides</a>][<a href="https://www.youtube.com/watch?v=xm8o8HvGstM" target="_blank">Video</a>]</li>
+<li style="text-align: justify;">2021-01-19 Give an invited talk <strong>Human-centered Explainable AI</strong> at the Salesforce Research Speaking Session. [<a href="https://github.com/evison/Human-XAI/blob/main/Human-Centered-XAI.pdf" target="_blank">Slides</a>]</li>
+<li style="text-align: justify;">2021-01-16 Papers on Reasoning, Fairness, Generative Recommendadtion, Knowledge Graph Embedding and Explainable Recommendation accepted to <strong>WWW 2021</strong>.</li>
+<li style="text-align: justify;">2020-12-17 Give an invited talk <strong>Human-centered Explainable AI</strong> at Instacart Algorithms Research Seminar. [<a href="https://github.com/evison/Human-XAI/blob/main/Human-Centered-XAI.pdf" target="_blank">Slides</a>]</li>
+<li style="text-align: justify;">2020-12-10 Give an invited keynote speech <strong>Human-centered Explainable AI</strong> at the 2020 IEEE BigData Speical Session on Explainable Artificial Intelligence in Safety Critical Systems. [<a href="https://github.com/evison/Human-XAI/blob/main/Human-Centered-XAI.pdf" target="_blank">Slides</a>]</li>
+<li style="text-align: justify;">2020-10-16 Our research on <strong>Long-term Fairness</strong> is accepted as a full paper to the WSDM 2021 conference.</li>
+<li style="text-align: justify;">2020-09-10 <strong>Grateful to receive NSF grant IIS-2007907 as PI "III: Small: Collaborative Research: Scrutable and Explainable Information Retrieval with Model Intrinsic and Agnostic Approaches", to support our research on Explainable Search. Details can be found on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2007907&HistoricalAwards=false" target="_blank">NSF award abstract</a> and our <a href="https://wise.cs.rutgers.edu/grants/iii-small-explainable-search/" target="_blank">Project Homepage</a></strong>.</li>
+<li style="text-align: justify;">2020-08-10 Our research on <strong>Neural Logic Reasoning</strong>, <strong>Neural Symbolic Reasoning</strong>, <strong>Generating Natural Language Explanations</strong>, and <strong>Economic Recommendation</strong> are accepted as four long papers to the CIKM 2020 conference.</li>
+<li style="text-align: justify;">2020-07-08 Give an invited talk <strong>Towards Explainable Artificial Intelligence</strong> at Infinia ML Tech Talk. [<a href="https://github.com/evison/XAI/blob/master/XAI.pdf" target="_blank">Slides</a>]</li>
+<li style="text-align: justify;">2020-06-20 Our research on Risk-aware Recommendation, Fairness-aware Recommendation, Echo Chamber Analysis, and Learning to Hash are accepted as long papers on the SIGIR 2020 conference.</li>
+<li style="text-align: justify;">2019-09-20 Our research on Pareto-efficient and Fairness-aware Learning to Rank was awarded a Best Paper Honorable Mention at the ACM RecSys 2019 conference. Check out the research which improves the Pareto efficiency and fairness of recommender systems.</li>
+<li style="text-align: justify;">2019-09-03 <strong>Grateful to receive NSF grant IIS-1910154 as PI "III: Small: Towards Explainable Recommendation Systems" to support our research on Explainable Recommendation. Details can be found on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1910154" target="_blank">NSF award abstract</a> and our <a href="https://wise.cs.rutgers.edu/grants/iii-small-explainable-recommendation/" target="_blank">Project Homepage</a></strong>.</li>
+<li style="text-align: justify;">2019-08-20 Three long papers accepted by <strong>CIKM 2019</strong>, including our recent research on Conversational Search, Conversational QA, and Recommendation Systems.</li>
+<li style="text-align: justify;">2019-04-15 Five long papers and one short paper accepted by <strong>SIGIR 2019</strong>, including our recent research on <strong>Knowledge-enhanced machine learning</strong>, <strong>visually explainable recommendation</strong>, and <strong>conversational question answering</strong>.</li>
+<li style="text-align: justify;">2019-03-12 We are organizing the 2nd International Workshop on ExplainAble Recommendation and Search (<strong>EARS 2019</strong>) on July 25, to be co-located with SIGIR 2019 in Paris, France. More information and call for papers will be released soon.</li>
+<li style="text-align: justify;">2019-03-11 We are organizing the 2019 International Workshop on Recommendation in Multistakeholder Environments (<strong>RMSE 2019</strong>) on September 19-20, co-located with RecSys 2019 in Copenhagen, Denmark. More information and call for papers will be released soon.</li>
+<li style="text-align: justify;">2019-01-20 Three research papers accepted by the Web Conference 2019 (WWW 2019), including our recent research on <strong>bridging machine learning and economic principles for economic analysis of web-based systems</strong>.</li>
+<li style="text-align: justify;">2018-08-06 Our research paper on <strong>Towards Conversational Search and Recommendation: System Ask, User Respond</strong> got accepted by CIKM 2018 as a full paper.</li>
+<li style="text-align: justify;">2018-06-22 Give an invited talk "Explainable Recommendation and Search" at Guangzhou University, Guangzhou, China</li>
+<li style="text-align: justify;">2018-06-18 Give an invited talk "Explainable Recommendation and Search" at the Software College, Northeastern University, Shenyang, China.</li>
+<li style="text-align: justify;">2018-06-15 Give an invited talk "Economics of Recommendation and Search Systems" at Alibaba incorporation.</li>
+<li style="text-align: justify;">2018-06-14 Give an invited talk "Conversational Search in E-commerce" at the Department of Computer Science, Tsinghua University.</li>
+<li style="text-align: justify;">2018-06-14 Give an invited talk "Explainable Recommendation and Search" at Institute of Computing Technology, Chinese Academy of Sciences.</li>
+<li style="text-align: justify;">2018-05-31 Give an invited talk "From Textual to Visual Explainable Recommendation" at Microsft Research Asia.</li>
+<li style="text-align: justify;">2018-03-15 <strong>We are organizing the 2018 Workshop on ExplainAble Recommendation and Search (EARS 2018), to be co-loacted with SIGIR 2018 at Ann Arbor, Michigan. Please check out the call for papers at <a href="https://ears2018.github.io/" target="_blank">https://ears2018.github.io/</a></strong>.</li>
+<li style="text-align: justify;">2017-12-15 Please check out the accepted papers and schedule of the second International Workshop on Multi-dimensional Information Fusion for User Modeling and Personalization (<strong>IFUP 2018</strong>), by clicking <a href="https://www.librec.net/ifup/2018/" target="_blank">here</a>.</li>
+<li style="text-align: justify;">2017-10-24 Paper on <strong>Sequential Recommendation with Memory Networks</strong> got accepted by WSDM 2018.</li>
+<li style="text-align: justify;">2017-08-15 We are organizing the Second <strong>International Workshop on Multi-dimensional Information Fusion for User Modeling and Personalization (IFUP 2018)</strong> co-located with WSDM 2018 at Los Angeles, please checkout the workshop website by clicking <a href="https://www.librec.net/ifup/2018/" target="_blank">here</a>, and kindly consider a contribution!
+<li style="text-align: justify;">2017-08-06 Two papers about <strong>Joint Representation Learning for Recommendation</strong> and <strong>Visibility Issues in Recommendation</strong> got accepted by CIKM 2017 as full papers, our Joint Representation Learning (JRL) algorithm got 2~3 times improvement than shallow baselines for top-N recommendation, check out the papers and source codes!</li>
+<li style="text-align: justify;">2017-04-10 Our two papers about <strong>Personalized Product Search</strong> and <strong>Personalized Key Frame Recommendation</strong> got accepted by <strong>SIGIR 2017</strong>, check out these new research tasks!</li>
+<li style="text-align: justify;">2017-01-26 Will give a talk <strong>Unstructured Data Mining for Web Personalization</strong> in Boston University.</li>
+<li style="text-align: justify;">2016-10-17 See how machine learninhg can help to quantity essential economic concepts and model the online economy in our paper &#8220;<span style="line-height: 22px;"><strong>Multi-Product Utility Maximization for Economic Recommendation</strong>&#8221; accepted as a full paper in <strong>WSDM 2017</strong>.</span></li>
+<li style="text-align: justify;">2016-06-05 We are organizing the Tsinghua University <strong>Forum on Intelligent Recommendation</strong>, with distinguished keynote speakers <a href="http://rali.iro.umontreal.ca/nie/jian-yun-nie-en/" target="_blank">Prof. Jian-Yun Nie</a> from UMontreal, <a href="https://www.microsoft.com/en-us/research/people/xingx/" target="_blank">Dr. Xing Xie</a> from MSRA, Dr. Quan Yuan from Alibaba, and Dr. Yading Yue from Tencent. Welcome to join!
+<li style="text-align: justify;">2016-06-01 Will give a talk <strong>Personalized Recommendation based on Internet Surplus Maximization</strong> in Renmin University of China.</li>
+<li style="text-align: justify;">2016-05-18 Gave a talk <strong>Internet Welfare Economics</strong> in School of Computer Science, Beijing University of Technology.</li>
+<li style="text-align: justify;">2015-12-16 Let's promote the Web Intelligence towards Social Good! See our paper &#8220;<span style="line-height: 22px;"><strong>Economic Recommendation with Surplus Maximization</strong>&#8221; accepted as a full paper in <strong>WWW 2016</strong>.</span></li>
+<li style="text-align: justify;">2015-04-17 Nearly driven crazy by the countless and continuously emerging approachs of shilling attach in practical recommender systems? See our paper &#8220;<span style="line-height: 22px;">Catch the Black Sheep: Unified Framework for Shilling Attack Detection based on Fraudulent Action Propagation&#8221; in <strong>IJCAI 2015</strong>.</span></li>
+<li style="text-align: justify;">2015-01-18 Leverage the rather mature time series analysis techniques for business intelligence. See our paper &#8220;<span style="line-height: 22px;"><strong>Daily-Aware Personalized Recommendation based on Feature-Level Time Series Analysis</strong>&#8221; accepted as a full paper by <strong>WWW 2015</strong>.</span></li>
+<li style="text-align: justify;">2014-11-21 It's time to care about the role of textual reivews in recommender systems! See our research proposal &#8220;<span style="line-height: 22px;"><strong>Incorporating Phrase-level Sentiment Analysis on Textual Reviews for Personalized Recommendation</strong>&#8221; accepted by <strong>WSDM 2015</strong>.</span></li>
+<li style="text-align: justify;">2014-11-10 Our paper &#8220;<span style="line-height: 22px;"><strong>SoF: Soft-Cluster Matrix Factorization for Probabilistic Clustering</strong>&#8221; is accepted as a full paper by <strong>AAAI 2015</strong>.</span></li>
+<li style="text-align: justify;">2014-08-09 Our paper entitled &#8220;<span style="line-height: 22px;"><strong>Understanding the Sparsity: Augmented Matrix Factorization with Sampled Constraints on Unobservables</strong>&#8221; is accepted as a long paper by <strong>CIKM 2014</strong>.</span></li>
+<li style="text-align: justify;">2014-07-07 My research proposal &#8220;<span style="line-height: 22px;"><strong>Browser-Oriented Universal Cross-Site Recommendation and Explanation based on User Browsing Logs</strong>&#8221; is accepted by the Doctoral Symposium of the <strong>RecSys 2014</strong> conference.</span></li>
+<li style="text-align: justify;">2014-04-12 Our paper &#8220;<span style="line-height: 22px;"><strong>Explicit Factor Models for Explainable Recommendation based on Phrase-level Sentiment Analysis</strong>&#8221; is accepted as a long paper by <strong>SIGIR 2014</strong>.</span></li>
+<li style="text-align: justify;">2014-04-12 Our paper entitled &#8220;<span style="line-height: 22px;">Do Users Rate or Review? Boost Phrase-level Sentiment Labeling with Review-level Sentiment Classification&#8221; has been accepted as a short paper by <strong>SIGIR 2014</strong>.</span></li>
+<li style="text-align: justify;">2013-12-08 I am visiting as a research assistant at the School of Computing (SoC) in the National University of Singapore (NUS) for about 3 months.</li>
+<li style="text-align: justify;">2013-09-15 Our paper entitled &#8220;<span style="line-height: 22px;">Towards the Adaption to the Open Texture of Law&#8221; was accepted by CSMES 2013.</span></li>
+<li style="text-align: justify;">2013-08-18 Our paper entitled &#8220;<span style="line-height: 22px;">A Unified Framework for Emotional Elements Extraction based on Finite State Matching Machine&#8221; was accepted as a long paper by NLPCC 2013.</span></li>
+<li style="text-align: justify;">2013-04-05 Our paper &#8220;<span style="line-height: 22px;"><strong>Improve Collaborative Filtering Through Bordered Block Diagonal Form Matrices</strong>&#8221; was accepted as a long paper by <strong>SIGIR 2013</strong>.</span></li>
+<li style="text-align: justify;">2013-02-08 Our paper entitled &#8220;<span style="line-height: 22px;"><strong>Localized Matrix Factorization for Recommendation based on Matrix Block Diagonal Forms</strong>&#8221; was accepted as a long paper by <strong>WWW 2013</strong>.</span></li>
+<li style="text-align: justify;">2013-02-05 Our paper &#8220;<span style="line-height: 22px;">A General Collaborative Filtering Framework based on Matrix Bordered Block Diagonal Forms&#8221; was accepted as a short paper by ACM Hypertext 2013.</span></li>
+<li style="text-align: justify;">2013-01-10 Our paper entitled &#8220;<span style="line-height: 22px;">Is Fengshui Science or Superstition? A New Criterion for Judging the Value of Knowledge Systems&#8221; is published in Vol.3 No.1 in Journal of Literature and Art Studies.</span></li>
+<li style="text-align: justify;">2012-10-08 I gave a talk about &#8220;Framework of Distributed Recommender Systems&#8220; in State Key Laboratory of Intelligent Technology and Systems of CS Dept. at Tsinghua University.</li>
+<li style="text-align: justify;">2012-04-23 I gave a talk about &#8220;A Suervey of Recommender Systems&#8220; in State Key Laboratory of Intelligent Technology and Systems of CS Dept. at Tsinghua University. </li>
+</ul>
+	</div><!-- END entry -->
+	</div><!-- END post -->
+	<!-- You can start editing here. -->
+<!--div  hidden-->
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=pEse&d=EJGejg4kzT5ejx-BXm8WWGOsGJElHloPSrwYCNYP3rM"></script>
+<!--/div-->
+<!--script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=EJGejg4kzT5ejx-BXm8WWGOsGJElHloPSrwYCNYP3rM&cl=ffffff&w=a"></script-->
+
+				
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		function grin(tag) {
+			var myField;
+			tag = ' ' + tag + ' ';
+			if (document.getElementById('comment') && document.getElementById('comment').type == 'textarea') {
+				myField = document.getElementById('comment');
+			} else {
+				return false;
+			}
+			if (document.selection) {
+				myField.focus();
+				sel = document.selection.createRange();
+				sel.text = tag;
+				myField.focus();
+			}
+			else if (myField.selectionStart || myField.selectionStart == '0') {
+				var startPos = myField.selectionStart;
+				var endPos = myField.selectionEnd;
+				var cursorPos = endPos;
+				myField.value = myField.value.substring(0, startPos)
+							  + tag
+							  + myField.value.substring(endPos, myField.value.length);
+				cursorPos += tag.length;
+				myField.focus();
+				myField.selectionStart = cursorPos;
+				myField.selectionEnd = cursorPos;
+			}
+			else {
+				myField.value += tag;
+				myField.focus();
+			}
+		}
+	/* ]]> */
+	</script>
+									</div><!--content-->
+</div><!--wrapper-->
+<div class="clear"></div>
+<div id="footer">
+	<div id="footer-inside">
+		<p>Copyright &copy; 2013 ZWW's Theme | Powered by <a href="http://zww.me/">zBench</a> and <a href="http://wordpress.org/">WordPress</a></p>
+		<span id="back-to-top">&uarr; <a href="#" rel="nofollow" title="Back to top">Top</a></span>
+	</div>
+</div><!--footer-->
+<script type="text/javascript">
+function tocToggle(toc, box) {
+	var q = jQuery(toc);
+	if (!q) return;
+	q.slideToggle('fast', function() {
+		jQuery(box).toggleClass('toc-collapsed', q.css('display') == 'none');
+	});
+}
+</script>
+<script type="text/javascript">
+
+var addthis_config = {"data_track_clickback":true,"data_track_addressbar":false,"data_track_textcopy":false,"ui_atversion":"300"};
+var addthis_product = 'wpp-3.0.5';
+</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e8d1bd975abead8"></script>
+
+<?php
+function ip_info($ip = NULL, $purpose = "location", $deep_detect = TRUE) {
+  $output = NULL;
+  if (filter_var($ip, FILTER_VALIDATE_IP) === FALSE) {
+    $ip = $_SERVER["REMOTE_ADDR"];
+    if ($deep_detect) {
+      if (filter_var(@$_SERVER['HTTP_X_FORWARDED_FOR'], FILTER_VALIDATE_IP))
+        $ip = $_SERVER['HTTP_X_FORWARDED_FOR'];
+      if (filter_var(@$_SERVER['HTTP_CLIENT_IP'], FILTER_VALIDATE_IP))
+        $ip = $_SERVER['HTTP_CLIENT_IP'];
+    }
+  }
+  
+  $purpose  = str_replace(array("name", "\n", "\t", " ", "-", "_"), NULL, strtolower(trim($purpose)));
+  $support  = array("country", "countrycode", "state", "region", "city", "location", "address");
+  
+  $continents = array(
+    "AF" => "Africa",
+    "AN" => "Antarctica",
+    "AS" => "Asia",
+    "EU" => "Europe",
+    "OC" => "Australia (Oceania)",
+    "NA" => "North America",
+    "SA" => "South America"
+  );
+  
+  if (filter_var($ip, FILTER_VALIDATE_IP) && in_array($purpose, $support)) {
+    $ipdat = @json_decode(file_get_contents("http://www.geoplugin.net/json.gp?ip=" . $ip));
+    if (@strlen(trim($ipdat->geoplugin_countryCode)) == 2) {
+      switch ($purpose) {
+        case "location":
+          $output = array(
+            "city"      => @$ipdat->geoplugin_city,
+            "state"     => @$ipdat->geoplugin_regionName,
+            "country"    => @$ipdat->geoplugin_countryName,
+            "country_code"  => @$ipdat->geoplugin_countryCode,
+            "continent"   => @$continents[strtoupper($ipdat->geoplugin_continentCode)],
+            "continent_code" => @$ipdat->geoplugin_continentCode
+          );
+          break;
+        case "address":
+          $address = array($ipdat->geoplugin_countryName);
+          if (@strlen($ipdat->geoplugin_regionName) >= 1)
+            $address[] = $ipdat->geoplugin_regionName;
+          if (@strlen($ipdat->geoplugin_city) >= 1)
+            $address[] = $ipdat->geoplugin_city;
+          $output = implode(", ", array_reverse($address));
+          break;
+        case "city":
+          $output = @$ipdat->geoplugin_city;
+          break;
+        case "state":
+          $output = @$ipdat->geoplugin_regionName;
+          break;
+        case "region":
+          $output = @$ipdat->geoplugin_regionName;
+          break;
+        case "country":
+          $output = @$ipdat->geoplugin_countryName;
+          break;
+        case "countrycode":
+          $output = @$ipdat->geoplugin_countryCode;
+          break;
+      }
+    }
+  }
+  return $output;
+}
+?>
+
+<!--wp_footer--></body>
+</html>
