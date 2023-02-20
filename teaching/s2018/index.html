@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<!-- saved from url=(0052)https://www.cs.rutgers.edu/~dz220/CS352Fall2017.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>CS550: Massive Data Mining and Learning</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- Le styles -->
+    <link href="./bootstrap.min.css" rel="stylesheet">
+    <style type="text/css">
+body {
+  background-color: #092140;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+}
+
+#main {
+  background-color: white;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-left: auto;  -webkit-border-radius: 4px 4px 4px 4px;
+  border-radius: 4px 4px 4px 4px;
+  font-size: large;
+}
+
+h3 {
+  color: #024959;
+}
+
+h2, .lead {
+  color: #024959;
+}
+
+#positiontitle {
+  font-size: large;
+}
+
+#facilitation {
+  font-size: large;
+}
+
+#quote {
+  font-weight: bold;
+  text-align: end;
+}
+
+#welcome {
+  font-size: large;
+  font-family: Palatino;
+}
+
+#welcom {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+#shadow-home {  -webkit-box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.125) inset;
+  box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.125) inset;  -ms-word-wrap: normal;
+  word-wrap: normal;
+}
+
+	</style> </head>
+  <body><br>
+    <div id="main" class="container">
+      <div id="welcome" class="masthead">
+
+
+  <table style="width: 100%;" border="0">
+        <tbody>
+            <tr>
+             <td id="facilitation">
+	         <p style="margin-top: 0;
+	             &lt;p style=" background-color:="" transparent;="" margin-left:="" 5px;="" text-align:="" left;="" class="MsoNormal">
+	                 <br>
+</p><h2 class="text-center">CS 550: Massive Data Mining and Learning</h2>
+	         	            <!--div align="center"> <big> <em>Rutgers University - Spring 2018</em><p></p></big></div-->
+	    	  </td>
+            </tr>
+        </tbody>
+      </table>
+
+      <hr>
+
+
+    <h3><span style="">Course Information</span></h3>
+
+<br><table>
+<tbody><tr><td valign="top" width="160px"><u>Instructor</u>:</td>
+<td><a href="https://www.cs.rutgers.edu/faculty/yongfeng-zhang">Yongfeng Zhang</a></td>
+</tr>
+
+<tr>
+<td valign="top"><u>Email</u>:</td>
+<td>yongfeng.zhang AT rutgers.edu
+</td></tr>
+
+<tr>
+<td valign="top"><u>Office</u>:</td>
+<td>CBIM 20<br><br></td>
+</tr>
+
+<tr>
+<td valign="top"><u>Time:</u></td>
+<td>Monday and Thursdays, 12:00-1:20 pm<br> </td>
+</tr>
+
+<tr>
+<td valign="top"><u>Location:</u></td>
+<td>Allison Road Classrooms (ARC) 107<br></td>
+</tr>
+
+<tr>
+<td valign="top"><u>Office Hours</u>:</td>
+<td>Fridays 2:00-4:00pm or by appointment<br><br></td>
+</tr>
+
+<!--tr>
+<td valign="top"><u>Recitation:</u></td>
+<td>Sec 3  TUE  5:15 to 6:10 pm SEC 203; <br> Sec 4  THU  8:25 to 9:20 pm SEC 203;</td>
+</tr-->
+
+
+<!--tr>
+<td valign="top"><u>TA</u>:</td><td>Sangeeta Chowdhary<br> 
+(Email: sc1696@scarletmail.rutgers.edu) <br>
+ Office Hour: Tue 4-5pm, CoRE 333.
+<br></td>
+</tr-->
+
+<tr>
+<td valign="top"><u>TA</u>:</td>
+<td>Sepehr Janghorbani<br></td>
+</tr>
+
+<tr>
+<td valign="top"><u>Email</u>:</td>
+<td>sj620 At scarletmail.rutgers.edu<br></td>
+</tr>
+
+<tr>
+<td valign="top"><u>Office</u>:</td>
+<td>Hill 202<br></td>
+</tr>
+
+<tr>
+<td valign="top"><u>TA Office Hours</u>:</td>
+<td>Wednesdays 12:00pm-2:00pm or by appointment<br><br></td>
+</tr>
+
+<tr>
+<td valign="top"><u>Textbook</u>:</td>
+<td>(LRU) Mining Massive Data Sets by J. Leskovec, A. Rajaraman, J. D. Ullman<br><br>
+</td>
+</tr>
+
+
+<!--tr>
+<td valign="top"><u>Grading</u>:</td>
+<td>
+In-class Quizzes:  5% of grade  <br>
+Written  Homework +  socket programming:  5% of grade  <br>
+Midterm examination #1: 15% of grade  <br>
+Midterm examination #2: 15% of grade  <br>
+Programming assignment #1, #2, #3:  30% of grade <br>
+Final examination: 30% of grade <br>
+</td>
+</tr-->
+
+</tbody></table>
+
+<br><hr>
+
+<h3><span style="">Announcements</span></h3>
+<li> 4/10: Project presentation schedules emailed to each team from Sakai </li>
+<li> 4/09: Homework 4 released on Sakai, due date Sunday 4/22 11:59PM, one late day allowed </li>
+<li> 3/25: Homework 3 released on Sakai, due date Sunday 4/08 11:59PM, one late day allowed </li>
+<li> 3/20: Solutions of homework 2 released on Sakai </li>
+<li> 3/02: Homework 2 released on Sakai, due date Sunday 3/18 11:59PM, one late day allowed </li>
+<li> 2/27: Solutionos of homework 1 released on Sakai </li>
+<li> 2/26: Final project will be released and the project description will be uploaded to Sakai </li>
+<li> 2/09: Homework 1 released on Sakai, due date Sunday 2/25 11:59PM, one late day allowed </li>
+<li> 1/19: Homework 0 released on Sakai, this is a practice homework and does not require submission </li>
+<li> 1/10: The first class is on Thursday, Jan 18.</li>
+
+<br><hr>
+
+<h3><span style="">Course Descriptions</span></h3>
+<p align="justify">This class introduce computing infrastructurs, algorithms, thories, and practice of massive data analytics and machine learning, as well as their application in frequently used scenarios, including recommender systems, web search, social networks, computational advertising, smart city, etc. Students will learn algorithms to store, process, mine, analyze, and synthesize streaming data, or data at rest that does not fit in Random Access Memory. The material covered here equips students with the main backend algorithms and infrastructure for the Capstone Project and research tasks closely related with data science and analytics.</p>
+
+<br><hr>
+
+<h3><span style="">Prerequisites</span></h3>
+<li>CS 512 or CS 513 (Fundamental Algorithms)</li>
+<li>Linear Algebra, Basic Probability (Moments, Typical Distributions, MLE)</li>
+<li>Programming Languages: C++/Java</li>
+<li>Infrastructure: Hadoop Cluster</li>
+
+<br><hr>
+
+<h3><span style="">Expected Work</span></h3>
+<li>Homework: 4 homework assignments (10% each, 40% total)</li>
+<li>Midterm: Thu, Mar 8, 12:00pm – 1:15pm (25%)</li>
+<li>Final Project: Complete as a team of at most 3 students, choose between an assigned project or a self-proposed project, and provide a 10 min presentation (35%, and 5% bonus for self-proposed projects)</li>
+<br>
+<p align="justify">The midterm is closed-book, but you are allowed to bring 1 letter-sized page of note that you prepared by yourself.</p>
+<!--p align="justify">Homework assignments are posted on Fridays, and you have two weeks to finish the homework, due dates are the second next Friday (14 days later) at 11:59pm.</p-->
+<p align="justify">Self-proposed projects should be equal to or exceed the amount of work of the assigned project, and the proposed project is subject to pre-approval by the instructor.</p>
+
+<!--br><hr>
+<h3><span style="">Class Resources</span></h3>
+<li></li-->
+
+
+<br><hr>
+<h3><span style="">Tentative Schedule</span></h3>
+<p align="justify">Note that the schedule may be subject to change (e.g., due to snow or campus close). Please check the course website frequently for the latest schedule.</p>
+
+
+<p align="justify">
+</p><p></p><table border="1" width="100%">
+ <tbody><tr class="x">
+<td width="30px"><center>Week</center></td>
+<td width="50px"><center>Date</center></td>
+<td width="750px"><center>Topics and Assignments</center></td> 
+</tr>
+
+<tr class="x">
+<td width="30px"><center>1</center></td>
+<td width="60px"><br><center>1/18</center><br></td>
+<td width="750px">&nbsp; Introduction, Map Reduce I (Reading: Ch 1, Ch 2.1-2.4)</td>
+</tr>
+
+<tr class="x">
+<td width="30px"><center>2</center></td>
+<td width="60px"><br><center>1/22<br/>1/25</center><br></td>
+<td width="750px">&nbsp; Map Reduce II (Reading: Ch 2.1-2.4)<br/>&nbsp; Association Rule Mining (Reading: Ch 6)</td>
+</tr>
+
+<tr class="x">
+<td width="30px"><center>3</center></td>
+<td width="60px"><br><center>1/29<br/>2/1</center><br></td>
+<td width="750px">&nbsp; Frequent Item Sets Mining (Reading: Ch 6)<br/>&nbsp; Locally Sensitive Hashing I (Reading: Ch 3.1-3.4)</td>
+</tr>
+
+<tr class="x">
+<td width="30px"><center>4</center></td>
+<td width="60px"><br><center>2/5<br/>2/8</center><br></td>
+<td width="750px">&nbsp; Locally Sensitive Hashing II (Reading: Ch 3.5-3.8)<br/>&nbsp; Clustering, similarity, k-means, BFR (Reading: Ch 7.1-7.4)</td>
+</tr>
+
+<tr class="x">
+<td width="30px"><center>5</center></td>
+<td width="60px"><br><center>2/12<br/>2/15</center><br></td>
+<td width="750px">&nbsp; Dimensionality Reduction, SVD (Reading: Ch 11.1-11.3)<br/>&nbsp; Dimensionality Reduction, CUR (Reading: Ch 11.4-11.5)</td>
+</tr>
+
+<tr class="x">
+<td width="30px"><center>6</center></td>
+<td width="60px"><br><center>2/19<br/>2/22</center><br></td>
+<td width="750px">&nbsp; Content-based Recommendation (Reading: Ch 9.1-9.2)<br/>&nbsp; Collaborative Filtering, Latent Factor Models (Reading: Ch 9.3-9.4)</td>
+</tr>
+
+<tr class="x">
+<td width="30px"><center>7</center></td>
+<td width="60px"><br><center>2/26<br/>3/1</center><br></td>
+<td width="750px">&nbsp; Learning to Rank and Deep Learning for RS, Project Description<br/>&nbsp; Link Analysis, Page Rank (Reading: Ch 5.1-5.3, 5.5)</td>
+</tr>
+
+<tr class="x">
+<td width="30px"><center>8</center></td>
+<td width="60px"><br><center>3/5<br/>3/8</center><br></td>
+<td width="750px">&nbsp; Web Spam, Trust Rank (Reading: Ch 5.4)<br/>&nbsp; Mid-term exam</td>
+</tr>
+
+<tr class="x">
+<td width="30px"><center>9</center></td>
+<td width="60px"><br><center>3/12<br/>3/15</center><br></td>
+<td width="750px">&nbsp; No class, Spring recess</td>
+</tr>
+
+<tr class="x">
+<td width="30px"><center>10</center></td>
+<td width="60px"><br><center>3/19<br/>3/22</center><br></td>
+<td width="750px">&nbsp; Social Networks, Community Detection (Reading: Ch 10.1-10.2, 10.6)<br/>&nbsp; Spectral Clustering, Trawling (Reading: Ch 10.1-10.2, 10.6)</td>
+</tr>
+
+<tr class="x">
+<td width="30px"><center>11</center></td>
+<td width="60px"><br><center>3/26<br/>3/29</center><br></td>
+<td width="750px">&nbsp; Overlapping Communities (Reading: Ch 10.3-10.5, 10.7-10.8)<br/>&nbsp; Large-scale Machine Learning I (Reading: Ch 12)</td>
+</tr>
+
+<tr class="x">
+<td width="30px"><center>12</center></td>
+<td width="60px"><br><center>4/2<br/>4/5</center><br></td>
+<td width="750px">&nbsp; Large-scale Machine Learning II (Reading: Ch 12)<br/>&nbsp; Mining Data Streams I (Reading: Ch 4.1-4.3)</td>
+</tr>
+
+<tr class="x">
+<td width="30px"><center>13</center><br/></td>
+<td width="60px"><br><center>4/9<br/>4/12<br/>&nbsp;</center><br></td>
+<td width="750px">&nbsp; Mining Data Streams II (Reading: Ch 4.4-4.7)<br/>&nbsp; Guest Lecture: Case Study in Smart Cities</td>
+</tr>
+
+<tr class="x">
+<td width="30px"><center>14</center></td>
+<td width="60px"><br><center>4/16<br/>4/19</center><br></td>
+<td width="750px">&nbsp; Computational Advertising (Reading: Ch 8)<br/>&nbsp; Learning through Experimentations with Bandit-based Learning</td>
+</tr>
+
+<!--Optimizing Submodular Functions-->
+
+<tr class="x">
+<td width="30px"><center>15</center></td>
+<td width="60px"><br><center>4/23<br/>4/26</center><br></td>
+<td width="750px">&nbsp; Project Presentations I<br/>&nbsp; Project Presentations II</td>
+</tr>
+
+<tr class="x">
+<td width="30px"><center>16</center></td>
+<td width="60px"><br><center>4/30</center><br></td>
+<td width="750px">&nbsp; Course Review</td>
+</tr>
+
+<!--/td></tr-->
+
+</tbody></table>
+
+ 
+ </div></div></body></html>

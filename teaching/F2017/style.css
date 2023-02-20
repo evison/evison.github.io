@@ -1,0 +1,12 @@
+body {
+    font-family: Arial;
+    font-size: 12pt;
+    margin: 40px 40px 40px 40px;
+    max-width: 1100px;
+}
+
+td {
+    border-style: solid;
+    border-width: 1px;
+    padding: 5px;
+}
