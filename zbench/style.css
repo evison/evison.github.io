@@ -28,7 +28,7 @@ h6{font-size:14px;line-height:20px;}
 small{font-size:10px;line-height:16px;}
 dl{font-size:12px;}
 dt{font-weight:bold;}
-a{color:#047;text-decoration:none;outline:none;}
+a{color:blue;text-decoration:none;outline:none;}
 a:hover{color:#4a630f;text-decoration:none;}
 fieldset,img{border:none;}
 hr{color:#ddd;background-color:#ddd;height:1px;border:0px;}
@@ -84,7 +84,7 @@ hr{color:#ddd;background-color:#ddd;height:1px;border:0px;}
 /* #header */
 #header{overflow:hidden;z-index:1;position:relative;margin:30px auto;}
 #header h1{float:left;padding:0 0 0 10px;text-shadow:1px 1px 1px #999;font-size:28px;font-family:Georgia,"Times New Roman",Times,serif;}
-#header h1 a{color:#222;line-height:36px;}
+#header h1 a{color:black;line-height:36px;}
 #header h1 a.header_logo{overflow:hidden;display:block;width:640px;height:36px;text-indent:-9999px;}
 #header h2{float:left;height:20px;overflow:hidden;line-height:18px;padding:10px 0 0 20px;color:#222;font-size:12px;font-weight:normal;text-shadow:0 1px 0 #fff;}
 #header_image{width:952px;height:182px;margin:30px 0 0;padding:3px;border:1px solid #ccc;}
@@ -105,7 +105,7 @@ hr{color:#ddd;background-color:#ddd;height:1px;border:0px;}
 .post-page{margin:0;border-bottom:1px solid #fff;}
 .post-page-nocomment{border-bottom:none;}
 h2.title{border-bottom:1px solid #fafafa;font-size:18px;text-shadow:0 1px 0 #fff,1px 2px 2px #aaa;padding:5px 10px;color:#345;}
-h2.title a{color:#345;}
+h2.title a{color:blue;}
 h2.title a:hover{color:#4a630f;}
 .entry{font-size:13px;overflow:hidden;padding:0 10px;}
 .entry ul,.entry ol{margin:0 30px 22px;}
@@ -113,8 +113,8 @@ h2.title a:hover{color:#4a630f;}
 .entry hr{display:block;margin:22px 0;}
 .entry p{line-height:22px;margin:0 0 22px 0;}
 .entry h1,.entry h2,.entry h3,.entry h4,.entry h5,.entry h6,
-.comment-text h1,.comment-text h2,.comment-text h3,.comment-text h4,.comment-text h5,.comment-text h6{margin:0 0 22px 0;color:#555;}
-.entry a{color:#4a630f;}
+.comment-text h1,.comment-text h2,.comment-text h3,.comment-text h4,.comment-text h5,.comment-text h6{margin:0 0 22px 0;color:black;}
+.entry a{color:blue;}
 .entry a:hover{color:#333;text-decoration:underline;}
 .entry img{max-width:610px;height:auto;margin:10px 0;padding:4px;background:#fff;border:1px solid #ddd;}
 .entry img.attachment-extra-featured-image{margin:0 0 22px;}
@@ -140,7 +140,7 @@ h2.title a:hover{color:#4a630f;}
 .post-info-top{border-top:1px solid #ddd;line-height:18px;height:18px;position:relative;color:#999;margin:0 0 22px;padding:2px 10px;overflow:hidden;display:block;}
 .post-info-top-nocomment{height:1px;}
 .post-info-bottom{border-bottom:1px solid #fff;line-height:24px;position:relative;color:#999;margin:0;padding:2px 10px;overflow:hidden;display:block;}
-.post-info-top a,.post-info-bottom a{color:#999;}
+.post-info-top a,.post-info-bottom a{color:blue;}
 .post-info-top a:hover,.post-info-bottom a:hover{color:#4a630f;text-decoration:underline;}
 .entry p.read-more a,.entry p a.more-link,.post-info-date,.post-info-category,.post-info-tags,.gotocomments,.addcomment{display:block;padding-left:20px;background:url("images/icons.gif") no-repeat scroll 0 0;}
 .post-info-date{float:left;background-position:0 -40px;}
@@ -152,7 +152,7 @@ h2.title a:hover{color:#4a630f;}
 .entry .zbench-more-link{display:block;margin-top:22px;}
 .entry p.read-more a:hover,.entry p a.more-link:hover{color:#4a630f;}
 .sticky{width:638px;background:#f2f2f2;border:1px solid #ccc;}
-h2.sticky-h2 a{color:#ff4e00;}
+h2.sticky-h2 a{color:blue;}
 .page_link{clear:both;padding:10px 0 22px;}
 .add-info{padding:0 10px;}
 .add-info h3{line-height:16px;font-size:12px;color:#4a630f;margin-bottom:5px;background:#e5e5e5;}
@@ -174,7 +174,7 @@ h2.sticky-h2 a{color:#ff4e00;}
 .rss_wrap a.googleplus{background:url("images/icons.gif") no-repeat 0 0;}
 /* #sidebar */
 #sidebar{overflow:hidden;width:276px;border:1px solid #fff;padding:20px 10px 10px;}
-#sidebar a{color:#555;text-shadow:0 1px 0 #fafafa;}
+#sidebar a{color:blue;text-shadow:0 1px 0 #fafafa;}
 #sidebar a:hover{color:#999;}
 #sidebar h3,#sidebar h2{text-shadow:0 1px 0 #f7f7f7,1px 2px 3px #999;color:#345;font-size:16px;margin:0;padding:0 5px;line-height:30px;border-bottom:1px solid #fff;}
 #sidebar li{line-height:20px;}
@@ -198,7 +198,7 @@ h2.sticky-h2 a{color:#ff4e00;}
 #comments-div{border-top:1px solid #ddd;position:relative;line-height:24px;height:24px;text-shadow:0 1px 0 #f7f7f7,1px 2px 1px #999;text-align:right;margin:0 0 30px;padding:2px 10px;}
 h2#comments{line-height:24px;font-size:12px;font-weight:normal;width:300px;float:right;}
 span#comments-addcomment{position:absolute;left:10px;top:2px;padding-left:20px;background:url("images/icons.gif") no-repeat 0 -115px;}
-span#comments-addcomment a{color:#047;text-decoration:none;}
+span#comments-addcomment a{color:blue;text-decoration:none;}
 span#comments-addcomment a:hover{color:#4a630f;text-decoration:none;}
 
 /* comments list style */
@@ -212,7 +212,7 @@ span#comments-addcomment a:hover{color:#4a630f;text-decoration:none;}
 .commentlist li .vcard cite.fn a.url{color:#047;}
 .commentlist li .vcard cite.fn a.url:hover{color:#aaa;}
 .commentlist li span.comment-meta{}
-.commentlist li span.comment-meta a{color:#aaa;}
+.commentlist li span.comment-meta a{color:blue;}
 .commentlist li span.comment-meta a:hover{color:#555;}
 .commentlist li .comment-text{border-top:1px solid #fff;margin:0 50px 10px 55px;padding-top:10px;}
 .commentlist li.bypostauthor .comment-text{color:#777;}
